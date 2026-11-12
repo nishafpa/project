@@ -27,7 +27,7 @@ The classical Time Series Analysis & Forecasting and LSTM (Long Short-Term Memor
 ### Executing program
 
 * Click the below URL to Navigate to the Code, to Download and to Execute on any Python Notebook Cell by Cell from Top to Bottom
-* [US Equity Closing Price Prediction](https://github.com/nishafpa/university_project_001/blob/main/EquityClosingPricePrediction.ipynb)
+* [US Equity Closing Price Prediction](https://github.com/nishafpa/project/blob/main/EquityClosingPricePrediction.ipynb)
 
 ## Help
 
