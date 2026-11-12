@@ -42,7 +42,7 @@ tf.random.set_seed(42) # Set seed for TensorFlow
 # Constants
 # Please note that you need to sign up for a free FRED account and obtain an API key from the FRED website (https://fred.stlouisfed.org/) to access the data
 # You can replace your FRED API key in the code below OR use my provided API key for demonstration purpose
-FRED_API_KEY = "c0f88df6d55d87792b278b64733d9b24"
+FRED_API_KEY = "INSERT_YOUR_KEY"
 
 # Header Display
 def show_header():
